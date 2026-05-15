@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BerlinClock": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
